@@ -1,0 +1,252 @@
+[
+    {
+      "name": "Dune",
+      "song": "Frank Herbert",
+      "time": "412"
+    },
+    {
+      "name": "Ender's Game",
+      "song": "Orson Scott Card",
+      "time": "324"
+    },
+    {
+      "name": "1984",
+      "song": "George Orwell",
+      "time": "328"
+    },
+    {
+      "name": "Foundation",
+      "song": "Isaac Asimov",
+      "time": "296"
+    },
+    {
+      "name": "Brave New World",
+      "song": "Aldous Huxley",
+      "time": "288"
+    },
+    {
+      "name": "The Hitchhiker's Guide to the Galaxy",
+      "song": "Douglas Adams",
+      "time": "224"
+    },
+    {
+      "name": "Neuromancer",
+      "song": "William Gibson",
+      "time": "271"
+    },
+    {
+      "name": "Fahrenheit 451",
+      "song": "Ray Bradbury",
+      "time": "249"
+    },
+    {
+      "name": "Snow Crash",
+      "song": "Neal Stephenson",
+      "time": "470"
+    },
+    {
+      "name": "The Martian",
+      "song": "Andy Weir",
+      "time": "369"
+    },
+    {
+      "name": "I, Robot",
+      "song": "Isaac Asimov",
+      "time": "224"
+    },
+    {
+      "name": "The War of the Worlds",
+      "song": "H.G. Wells",
+      "time": "192"
+    },
+    {
+      "name": "Ready Player One",
+      "song": "Ernest Cline",
+      "time": "384"
+    },
+    {
+      "name": "The Time Machine",
+      "song": "H.G. Wells",
+      "time": "118"
+    },
+    {
+      "name": "Starship Troopers",
+      "song": "Robert A. Heinlein",
+      "time": "335"
+    },
+    {
+      "name": "The Hunger Games",
+      "song": "Suzanne Collins",
+      "time": "374"
+    },
+    {
+      "name": "Do Androids Dream of Electric Sheep?",
+      "song": "Philip K. Dick",
+      "time": "256"
+    },
+    {
+      "name": "The Matrix",
+      "song": "Lilly Wachowski, Lana Wachowski",
+      "time": "136"
+    },
+    {
+      "name": "The Lord of the Rings",
+      "song": "J.R.R. Tolkien",
+      "time": "1178"
+    },
+    {
+      "name": "The Handmaid's Tale",
+      "song": "Margaret Atwood",
+      "time": "311"
+    },
+    {
+      "name": "The Stand",
+      "song": "Stephen King",
+      "time": "1153"
+    },
+    {
+      "name": "A Wrinkle in Time",
+      "song": "Madeleine L'Engle",
+      "time": "228"
+    },
+    {
+      "name": "The Chronicles of Narnia",
+      "song": "C.S. Lewis",
+      "time": "870"
+    },
+    {
+      "name": "The Forever War",
+      "song": "Joe Haldeman",
+      "time": "278"
+    },
+    {
+      "name": "I Am Legend",
+      "song": "Richard Matheson",
+      "time": "160"
+    },
+    {
+      "name": "The Dispossessed",
+      "song": "Ursula K. Le Guin",
+      "time": "387"
+    },
+    {
+      "name": "The Giver",
+      "song": "Lois Lowry",
+      "time": "240"
+    },
+    {
+      "name": "The Road",
+      "song": "Cormac McCarthy",
+      "time": "287"
+    },
+    {
+      "name": "Dune Messiah",
+      "song": "Frank Herbert",
+      "time": "331"
+    },
+    {
+      "name": "The Left Hand of Darkness",
+      "song": "Ursula K. Le Guin",
+      "time": "304"
+    },
+    {
+      "name": "Children of Dune",
+      "song": "Frank Herbert",
+      "time": "438"
+    },
+    {
+      "name": "Slaughterhouse-Five",
+      "song": "Kurt Vonnegut",
+      "time": "275"
+    },
+    {
+      "name": "Hyperion",
+      "song": "Dan Simmons",
+      "time": "482"
+    },
+    {
+      "name": "The War in the Air",
+      "song": "H.G. Wells",
+      "time": "234"
+    },
+    {
+      "name": "The Forever War",
+      "song": "Joe Haldeman",
+      "time": "278"
+    },
+    {
+      "name": "The Moon is a Harsh Mistress",
+      "song": "Robert A. Heinlein",
+      "time": "382"
+    },
+    {
+      "name": "The Man in the High Castle",
+      "song": "Philip K. Dick",
+      "time": "274"
+    },
+    {
+      "name": "The Windup Girl",
+      "song": "Paolo Bacigalupi",
+      "time": "376"
+    },
+    {
+      "name": "Old Man's War",
+      "song": "John Scalzi",
+      "time": "320"
+    },
+    {
+      "name": "Doomsday Book",
+      "song": "Connie Willis",
+      "time": "592"
+    },
+    {
+      "name": "Red Mars",
+      "song": "Kim Stanley Robinson",
+      "time": "572"
+    },
+    {
+      "name": "The Diamond Age",
+      "song": "Neal Stephenson",
+      "time": "499"
+    },
+    {
+      "name": "A Canticle for Leibowitz",
+      "song": "Walter M. Miller Jr.",
+      "time": "334"
+    },
+    {
+      "name": "The Three-Body Problem",
+      "song": "Cixin Liu",
+      "time": "400"
+    },
+    {
+      "name": "Ringworld",
+      "song": "Larry Niven",
+      "time": "342"
+    },
+    {
+      "name": "The Hyperion Cantos",
+      "song": "Dan Simmons",
+      "time": "276"
+    },
+    {
+      "name": "The Caves of Steel",
+      "song": "Isaac Asimov",
+      "time": "206"
+    },
+    {
+      "name": "The Andromeda Strain",
+      "song": "Michael Crichton",
+      "time": "384"
+    },
+    {
+      "name": "The Invisible Man",
+      "song": "H.G. Wells",
+      "time": "192"
+    },
+    {
+      "name": "A Scanner Darkly",
+      "song": "Philip K. Dick",
+      "time": "288"
+    }
+  ]

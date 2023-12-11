@@ -1,0 +1,15 @@
+.contenedor{
+    width: 100%;
+}
+
+.links li{
+    list-style: none;
+    color: black;
+}
+
+.links ul{
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    margin: 0px 15px;
+}
